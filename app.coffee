@@ -1,5 +1,7 @@
-barry = new Layer
-  barry: 'garry',
-  html: 'blue'
+myModule = require('myModule')
 
 
+
+f = new myModule.Booty
+  html: 'hey'
+print f
