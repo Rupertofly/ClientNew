@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CoffeeLintProjectComponent">
+    <option name="configFile" value="coffeelint.json" />
+    <option name="lintExecutable" value="/usr/local/bin/coffeelint" />
+    <option name="nodeInterpreter" value="/usr/local/bin/node" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+</project>
